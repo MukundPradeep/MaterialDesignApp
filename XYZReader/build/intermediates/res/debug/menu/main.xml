@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/refresh"
+        android:title="@string/action_refresh" />
+</menu>
+<!-- From: file:/C:/GitHubUpload/Make%20Your%20App%20Material/MukundPradeep-xyzreader-a35deb2/XYZReader/src/main/res/menu/main.xml -->
